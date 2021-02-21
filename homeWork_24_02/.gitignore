@@ -1,0 +1,9 @@
+*.txt
+/cmake-build-debug
+/CMakeLists.txt
+/bin
+/obj
+*.cbp
+*.layout
+*.depend
+
