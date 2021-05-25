@@ -3,6 +3,7 @@
 /CMakeLists.txt
 /bin
 /obj
+/files
 *.cbp
 *.layout
 *.depend
